@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Router"
+  short_description: "Route tasks to useful skills and manage implicit invocation."
+  default_prompt: "Use $skill-router to analyze my task, recommend needed skills, and disable unrelated skills."
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,29 @@
+﻿[
+    {
+        "sourceRoot":  "C:\\Users\\19733\\.codex\\skills",
+        "name":  ".system",
+        "sourcePath":  "C:\\Users\\19733\\.codex\\skills\\.system",
+        "packagedPath":  "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\ecc66ef43d688733\\installed-skills-backup-20260708-010557\\codex-skills\\.system",
+        "files":  50,
+        "bytes":  383009,
+        "lastWriteTime":  "2026-06-26T18:11:54"
+    },
+    {
+        "sourceRoot":  "C:\\Users\\19733\\.codex\\skills",
+        "name":  "skill-router",
+        "sourcePath":  "C:\\Users\\19733\\.codex\\skills\\skill-router",
+        "packagedPath":  "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\ecc66ef43d688733\\installed-skills-backup-20260708-010557\\codex-skills\\skill-router",
+        "files":  3,
+        "bytes":  16921,
+        "lastWriteTime":  "2026-06-20T15:00:43"
+    },
+    {
+        "sourceRoot":  "C:\\Users\\19733\\.agents\\skills",
+        "name":  "planning-with-files-zh",
+        "sourcePath":  "C:\\Users\\19733\\.agents\\skills\\planning-with-files-zh",
+        "packagedPath":  "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\ecc66ef43d688733\\installed-skills-backup-20260708-010557\\agents-skills\\planning-with-files-zh",
+        "files":  9,
+        "bytes":  45812,
+        "lastWriteTime":  "2026-06-17T09:27:06"
+    }
+]
