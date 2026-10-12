@@ -1,0 +1,5 @@
+# Keep backed-up source bytes identical to the SHA-256 manifest on all platforms.
+/codex-skills/** -text
+/agents-skills/** -text
+/plugin-skills/** -text
+*.zip binary

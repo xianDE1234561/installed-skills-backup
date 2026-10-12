@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS ArkTS 开发"
+  short_description: "构建、审查和调试 HarmonyOS ArkTS/ArkUI 应用"
+  default_prompt: "使用 HarmonyOS ArkTS 开发规范实现或审查当前任务。"

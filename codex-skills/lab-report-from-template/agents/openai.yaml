@@ -1,0 +1,7 @@
+interface:
+  display_name: "实验报告模板填充"
+  short_description: "按实验指导书、图片和模板生成完整实验报告"
+  default_prompt: "Use $lab-report-from-template to write complete experiment reports from a guidebook, DOCX template, photos, and raw data."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "\"imagegen\"",
+    "path": "codex-skills/.system/imagegen",
+    "category": "codex-skills"
+  },
+  {
+    "name": "\"openai-docs\"",
+    "path": "codex-skills/.system/openai-docs",
+    "category": "codex-skills"
+  },
+  {
+    "name": "review-agent",
+    "path": "codex-skills/.system/review-agent",
+    "category": "codex-skills"
+  },
+  {
+    "name": "skill-creator",
+    "path": "codex-skills/.system/skill-creator",
+    "category": "codex-skills"
+  },
+  {
+    "name": "skill-installer",
+    "path": "codex-skills/.system/skill-installer",
+    "category": "codex-skills"
+  },
+  {
+    "name": "bilibili-render-pdf",
+    "path": "codex-skills/bilibili-render-pdf",
+    "category": "codex-skills"
+  },
+  {
+    "name": "document-format-skills",
+    "path": "codex-skills/document-format-skills",
+    "category": "codex-skills"
+  },
+  {
+    "name": "e2e-testing",
+    "path": "codex-skills/e2e-testing",
+    "category": "codex-skills"
+  },
+  {
+    "name": "engineering-lab-report",
+    "path": "codex-skills/engineering-lab-report",
+    "category": "codex-skills"
+  },
+  {
+    "name": "frontend-patterns",
+    "path": "codex-skills/frontend-patterns",
+    "category": "codex-skills"
+  },
+  {
+    "name": "harmonyos-arkts-development",
+    "path": "codex-skills/harmonyos-arkts-development",
+    "category": "codex-skills"
+  },
+  {
+    "name": "hatch-pet",
+    "path": "codex-skills/hatch-pet",
+    "category": "codex-skills"
+  },
+  {
+    "name": "lab-report-from-template",
+    "path": "codex-skills/lab-report-from-template",
+    "category": "codex-skills"
+  },
+  {
+    "name": "research-paper-writing",
+    "path": "codex-skills/research-paper-writing",
+    "category": "codex-skills"
+  },
+  {
+    "name": "semia",
+    "path": "codex-skills/semia",
+    "category": "codex-skills"
+  },
+  {
+    "name": "skill-inspector",
+    "path": "codex-skills/skill-inspector",
+    "category": "codex-skills"
+  },
+  {
+    "name": "skill-router",
+    "path": "codex-skills/skill-router",
+    "category": "codex-skills"
+  },
+  {
+    "name": "subtitle-refine",
+    "path": "codex-skills/subtitle-refine",
+    "category": "codex-skills"
+  },
+  {
+    "name": "tensor-formula-viz",
+    "path": "codex-skills/tensor-formula-viz",
+    "category": "codex-skills"
+  },
+  {
+    "name": "verification-loop",
+    "path": "codex-skills/verification-loop",
+    "category": "codex-skills"
+  },
+  {
+    "name": "youtube-render-pdf",
+    "path": "codex-skills/youtube-render-pdf",
+    "category": "codex-skills"
+  },
+  {
+    "name": "planning-with-files-zh",
+    "path": "agents-skills/planning-with-files-zh",
+    "category": "agents-skills"
+  },
+  {
+    "name": "computer-use",
+    "path": "plugin-skills/computer-use/computer-use",
+    "category": "plugin-skills/computer-use"
+  },
+  {
+    "name": "visualize",
+    "path": "plugin-skills/visualize/visualize",
+    "category": "plugin-skills/visualize"
+  },
+  {
+    "name": "google-docs",
+    "path": "plugin-skills/google-drive/google-docs",
+    "category": "plugin-skills/google-drive"
+  },
+  {
+    "name": "google-drive",
+    "path": "plugin-skills/google-drive/google-drive",
+    "category": "plugin-skills/google-drive"
+  },
+  {
+    "name": "google-drive-comments",
+    "path": "plugin-skills/google-drive/google-drive-comments",
+    "category": "plugin-skills/google-drive"
+  },
+  {
+    "name": "google-sheets",
+    "path": "plugin-skills/google-drive/google-sheets",
+    "category": "plugin-skills/google-drive"
+  },
+  {
+    "name": "google-slides",
+    "path": "plugin-skills/google-drive/google-slides",
+    "category": "plugin-skills/google-drive"
+  },
+  {
+    "name": "create-pet",
+    "path": "plugin-skills/work-pets/create-pet",
+    "category": "plugin-skills/work-pets"
+  },
+  {
+    "name": "pets",
+    "path": "plugin-skills/work-pets/pets",
+    "category": "plugin-skills/work-pets"
+  },
+  {
+    "name": "update-pet",
+    "path": "plugin-skills/work-pets/update-pet",
+    "category": "plugin-skills/work-pets"
+  },
+  {
+    "name": "plugin-management",
+    "path": "plugin-skills/plugin-management/plugin-management",
+    "category": "plugin-skills/plugin-management"
+  },
+  {
+    "name": "sites",
+    "path": "plugin-skills/sites/sites",
+    "category": "plugin-skills/sites"
+  },
+  {
+    "name": "documents",
+    "path": "plugin-skills/documents/documents",
+    "category": "plugin-skills/documents"
+  },
+  {
+    "name": "\"pdf\"",
+    "path": "plugin-skills/pdf/pdf",
+    "category": "plugin-skills/pdf"
+  },
+  {
+    "name": "Presentations",
+    "path": "plugin-skills/presentations/presentations",
+    "category": "plugin-skills/presentations"
+  },
+  {
+    "name": "template-creator",
+    "path": "plugin-skills/template-creator/template-creator",
+    "category": "plugin-skills/template-creator"
+  },
+  {
+    "name": "\"excel-live-control\"",
+    "path": "plugin-skills/spreadsheets/excel-live-control",
+    "category": "plugin-skills/spreadsheets"
+  },
+  {
+    "name": "\"Spreadsheets\"",
+    "path": "plugin-skills/spreadsheets/spreadsheets",
+    "category": "plugin-skills/spreadsheets"
+  }
+]
